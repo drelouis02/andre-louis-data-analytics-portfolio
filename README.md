@@ -1,38 +1,61 @@
-# Andre Louis – Data Analytics Portfolio
+# Andre Louis | Data Analytics Portfolio
 
-I am an Account Specialist with three years of experience using inventory,
-sales, purchasing and production data to support a large manufacturing account.
-I currently manage operational information involving more than 300 parts and
-use data to identify shortages, investigate discrepancies and support production
-decisions.
+I am an Account Specialist with three years of increasing responsibility in
+manufacturing and supply-chain operations. In my current role at Fastenal, I
+work with inventory, sales, purchasing, supplier, and production information
+involving more than 300 parts used by a large manufacturing customer.
 
-I hold a bachelor's degree, am pursuing a master's degree in Information
-Systems and have earned a Data Analytics certificate from Utah Valley University.
+My work requires me to identify inventory risks, investigate discrepancies,
+analyze demand patterns, and turn operational information into practical
+decisions. I hold a bachelor's degree, am pursuing a master's degree in
+Information Systems, and have earned a Data Analytics Certificate from
+Utah Valley University.
+
+This portfolio contains projects demonstrating my experience with data
+cleaning, exploratory analysis, visualization, and business recommendations.
 
 ## Technical Skills
 
+- Microsoft Excel
 - Python
 - SQL
-- Microsoft Excel
-- Data cleaning and validation
+- pandas
+- Data cleaning and standardization
 - Exploratory data analysis
 - Data visualization
-- Operational and supply-chain analysis
+- Statistical analysis
+- Root-cause analysis
+- Supply-chain and operational analysis
 
 ## Featured Project
 
-### Manufacturing Inventory and Supply Chain Analysis
+### Manufacturing Materials and Spending Analysis
 
-Analyzed manufacturing purchasing and inventory data to identify spending
-patterns, demand trends, supplier concentration and potential operational risks.
+This project analyzes a manufacturing dataset to identify spending patterns,
+supplier concentration, product-category trends, and potential operational
+risks.
 
-**Tools:** Python, pandas, Excel and data visualization
+**Tools used:** Excel, Python, pandas, and Matplotlib
 
 **Work completed:**
-- Cleaned inconsistent dates, currency values and missing data
-- Standardized company and product-category fields
-- Analyzed spending by supplier, category and time period
-- Identified notable trends and operational risks
-- Developed recommendations based on the findings
 
-[View Project]
+- Cleaned and standardized inconsistent dates, currency values, and missing data
+- Reviewed the dataset for duplicates and data-quality issues
+- Analyzed spending by supplier, product category, and time period
+- Identified meaningful trends and unusual values
+- Created visualizations to communicate the results
+- Developed business recommendations based on the findings
+
+[View the project](./manufacturing-materials-analysis/)
+
+## Education and Certifications
+
+- Master of Science in Information Systems — In Progress
+- Bachelor’s Degree
+- Data Analytics Certificate — Utah Valley University
+
+## Current Focus
+
+I am continuing to strengthen my skills in Python, SQL, statistical analysis,
+and predictive analytics while applying them to real operational and
+supply-chain problems.
