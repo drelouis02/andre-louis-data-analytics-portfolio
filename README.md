@@ -29,13 +29,11 @@ cleaning, exploratory analysis, visualization, and business recommendations.
 
 ## Featured Project
 
-### Manufacturing Materials and Spending Analysis
+### [Steel Manufacturing Procurement Analytics](./steel-manufacturing-procurement-analytics/) — In Progress
 
-This project analyzes a manufacturing dataset to identify spending patterns,
-supplier concentration, product-category trends, and potential operational
-risks.
+Analyzed steel manufacturing procurement data to identify spending patterns by material category and company. The project includes data cleaning, exploratory analysis, visualizations, key findings, and business recommendations.
 
-**Tools used:** Excel, Python, pandas, and Matplotlib
+**Tools:** Python, pandas, Jupyter Notebook, Matplotlib, Excel, Git, and GitHub
 
 **Work completed:**
 
@@ -45,8 +43,6 @@ risks.
 - Identified meaningful trends and unusual values
 - Created visualizations to communicate the results
 - Developed business recommendations based on the findings
-
-[View the project](./manufacturing-materials-analysis/)
 
 ## Education and Certifications
 
