@@ -1,7 +1,5 @@
 # Steel Manufacturing Procurement Analytics
 
-# Steel Manufacturing Procurement Analytics
-
 ## Overview
 
 This project analyzes procurement data from a steel manufacturing environment to identify purchasing trends, material costs, supplier patterns, and operational insights.
